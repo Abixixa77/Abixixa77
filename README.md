@@ -2,7 +2,7 @@
 
 Meu nome é Kainã Nakamori
 
-- Sou estudante do C. E. Newton Ferreia d Costa.
+- Sou estudante do C. E. Newton Ferreira d Costa.
 - Estou desenvolvendo projetos em Javascript com auxílio de meu professor.
 - Utilizo este espaço para me organizar e compartilhar os projetos desenvolvidos.
 
